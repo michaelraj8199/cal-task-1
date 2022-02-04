@@ -1,0 +1,38 @@
+.title{
+    margin-bottom: 0px;
+    text-align:center;
+    width: 210px;
+    color:green;
+    border: solid black 2px;
+    
+}
+
+input[type="button"]
+    {
+    background-color:rgb(177, 177, 202);
+    color: black;
+    border: solid black 2px;
+    width:100%
+}
+
+input[type="text"]
+    {
+    background-color:white;
+    border: solid black 2px;
+    width:100%
+}
+
+.input[type="operator"]
+{
+    background-color:rgb(255, 102, 0);
+    color: black;
+    border: solid black 2px;
+    width:100%
+}
+
+.center{
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+}
